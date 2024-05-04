@@ -10,5 +10,5 @@ Welcome to the Candle Snuffer Project! This project aims to create an automated 
 
 
 ## Video Demonstration:
-Check out the video demonstration of the candle snuffer mechanism in action [here]([link-to-video](https://drive.google.com/file/d/1j79LyvffOcwAhAHf88znD7ShKN0uhVe8/view?usp=sharing)).
+Check out the video demonstration of the candle snuffer mechanism in action [here]([https://drive.google.com/file/d/1j79LyvffOcwAhAHf88znD7ShKN0uhVe8/view?usp=sharing]).
 
